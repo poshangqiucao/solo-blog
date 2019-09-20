@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [MapReduce编程将文件中的城市代码替换为城市名称](https://www.cgblogs.top/articles/2019/09/19/1568894396853.html)
+* [随笔1](https://www.cgblogs.top/articles/2019/09/19/1568871302812.html)
 * [世界，你好！](https://www.cgblogs.top/hello-solo)
 
 
