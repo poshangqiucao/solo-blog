@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [C++实现自己的计算机](https://www.cgblogs.top/articles/2019/09/22/1569161604814.html)
+* [随笔4](https://www.cgblogs.top/articles/2019/09/22/1569132867525.html)
 * [文-随笔3](https://www.cgblogs.top/articles/2019/09/21/1569043418687.html)
 * [随笔2](https://www.cgblogs.top/articles/2019/09/20/1568971296419.html)
 * [MapReduce编程将文件中的城市代码替换为城市名称](https://www.cgblogs.top/articles/2019/09/19/1568894396853.html)
