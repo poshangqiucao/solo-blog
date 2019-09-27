@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [随笔5](https://www.cgblogs.top/articles/2019/09/26/1569506608592.html)
 * [C++实现自己的计算机](https://www.cgblogs.top/articles/2019/09/22/1569161604814.html)
 * [随笔4](https://www.cgblogs.top/articles/2019/09/22/1569132867525.html)
 * [文-随笔3](https://www.cgblogs.top/articles/2019/09/21/1569043418687.html)
