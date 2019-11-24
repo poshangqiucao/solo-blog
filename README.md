@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [一句话解释精确率召回率](https://www.cgblogs.top/articles/2019/11/23/1574522664012.html)
 * [人生偶遇](https://www.cgblogs.top/articles/2019/10/20/1571552492319.html)
 * [我在 GitHub 上的开源项目](https://www.cgblogs.top/my-github-repos)
 * [随笔5](https://www.cgblogs.top/articles/2019/09/26/1569506608592.html)
